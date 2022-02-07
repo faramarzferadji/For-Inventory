@@ -1,0 +1,10 @@
+C:\Users\ferad\source\repos\Invantory.ASP\Invantory.ASP\bin\Debug\Invantory.ASP.exe.config
+C:\Users\ferad\source\repos\Invantory.ASP\Invantory.ASP\bin\Debug\Invantory.ASP.exe
+C:\Users\ferad\source\repos\Invantory.ASP\Invantory.ASP\bin\Debug\Invantory.ASP.pdb
+C:\Users\ferad\source\repos\Invantory.ASP\Invantory.ASP\obj\Debug\Invantory.ASP.csproj.AssemblyReference.cache
+C:\Users\ferad\source\repos\Invantory.ASP\Invantory.ASP\obj\Debug\Invantory.ASP.GUI.Invantory_form.resources
+C:\Users\ferad\source\repos\Invantory.ASP\Invantory.ASP\obj\Debug\Invantory.ASP.Properties.Resources.resources
+C:\Users\ferad\source\repos\Invantory.ASP\Invantory.ASP\obj\Debug\Invantory.ASP.csproj.GenerateResource.cache
+C:\Users\ferad\source\repos\Invantory.ASP\Invantory.ASP\obj\Debug\Invantory.ASP.csproj.CoreCompileInputs.cache
+C:\Users\ferad\source\repos\Invantory.ASP\Invantory.ASP\obj\Debug\Invantory.ASP.exe
+C:\Users\ferad\source\repos\Invantory.ASP\Invantory.ASP\obj\Debug\Invantory.ASP.pdb
